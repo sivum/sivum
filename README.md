@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**sivum/sivum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is my personal blurb about me.
 
-Here are some ideas to get you started:
+Software Engineer specializing in Backend Development 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🔭 I’m currently working on distributed services during the day, you know designing and implementing them, Oh I prefer the engineering behind the API
+- 💬 Ask me about backend development, object oriented programming, functional programming, micro services, monoliths, architecture and systems design
+- 📫 How to reach me: https://www.linkedin.com/in/sivumase 
+- ⚡ Fun fact: How I feel about front end development is
+- <div id="header" align="center">
+  <img src="https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif" width="100"/>
+</div>
+
