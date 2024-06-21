@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-##Sivu Mase is the name
+## Sivu Mase is the name
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/sivumase">
