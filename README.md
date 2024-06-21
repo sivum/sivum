@@ -11,6 +11,6 @@ Software Engineer specializing in Backend Development
 - 📫 How to reach me: https://www.linkedin.com/in/sivumase 
 - ⚡ Fun fact: How I feel about front end development is
 - <div id="header" align="center">
-  <img src="https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif" />
 </div>
 
