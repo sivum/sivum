@@ -4,7 +4,7 @@
 
 All things software related, a father, software defined radio enthusiast, music and all of that
 
-- 🔭 I’m currently working on distributed services during the day, you know designing and implementing them, Oh I prefer the engineering behind the API
+- 🔭 I’m currently working on distributed services during the day, you know.. designing and implementing them, Oh I prefer the engineering behind the API :-)
 - 💬 Ask me about backend development, object oriented programming, functional programming, micro services, monoliths, architecture and systems design
 
 ---
