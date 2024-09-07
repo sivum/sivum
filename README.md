@@ -27,7 +27,7 @@ All things software related, a father, software defined radio enthusiast, music 
 ---
 ### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sivum)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sivum&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sivum&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
